@@ -1,4 +1,0 @@
-ess
-===
-
-Employee Self Service
